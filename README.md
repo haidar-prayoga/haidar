@@ -41,7 +41,7 @@
 <details>
   <summary><h4> <img align="center" src="https://github.com/haidar-prayoga/haidar/blob/main/icons/projects.gif" width="29"/> Projects</h4></summary>
 
-  #### <a href="https://github.com/haidar-prayoga/haidar/[Project-Name]">[Project Name]</a>
+  #### <a href="https://github.com/haidar-prayoga/Tugas_Ahir_PPL_SEM2"</a>
   <span><img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></span>
   - Implemented features to notify users about new opportunities.
   - Achieved a user base of X, surpassing initial projections.
